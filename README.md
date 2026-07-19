@@ -24,11 +24,11 @@ A neural network project built with **TensorFlow/Keras** to predict whether a tr
 
 ## Training Performance
 
-![Accuracy](accuracy_curve.png)
+![Accuracy](sss.png)
 
 ## Confusion Matrix
 
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](conmatrix.png)
 
 ## 🛠️ Tech Stack
 
