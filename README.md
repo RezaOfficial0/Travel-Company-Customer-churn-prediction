@@ -22,6 +22,14 @@ A neural network project built with **TensorFlow/Keras** to predict whether a tr
 * Binary Classification Problem
 * Evaluated with Confusion Matrix and Classification Report
 
+## Training Performance
+
+![Accuracy](accuracy_curve.png)
+
+## Confusion Matrix
+
+![Confusion Matrix](confusion_matrix.png)
+
 ## 🛠️ Tech Stack
 
 * Python
