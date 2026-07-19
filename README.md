@@ -1,3 +1,11 @@
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
+
+
 # ✈️ Travel Company Customer Churn Prediction
 
 A neural network project built with **TensorFlow/Keras** to predict whether a travel company customer is likely to churn.
